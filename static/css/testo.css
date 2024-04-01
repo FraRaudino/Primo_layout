@@ -1,0 +1,14 @@
+.testo{
+    font-family: 'overpass-mono', monospace;
+}
+
+.testo p{
+    font-size: 18px;
+    line-height: 24px;
+    width: 710px;
+    height: 456px;
+    margin-left: 365px;
+    margin-right: 365px;
+    margin-top: 1104;
+    margin-bottom: 115;
+}
