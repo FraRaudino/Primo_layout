@@ -4,10 +4,6 @@
 
 .testo p{
     font-size: 18px;
-    line-height: 24px;
-    width: 710px;
-    height: 456px;
-    margin-left: 365px;
-    margin-right: 365px;
-    padding-bottom: 35px;
+    line-height: 24px
+    ;
 }
